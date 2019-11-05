@@ -1,5 +1,2 @@
 My first Git Commit
-Leaning git using line
-deleting command
-
-Working copy and add new stuff
+New changes to sort problems
