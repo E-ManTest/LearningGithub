@@ -1,3 +1,5 @@
 My first Git Commit
 Leaning git using line
-Adding mor code to this text and deleting command
+deleting command
+
+Working copy and add new stuff
