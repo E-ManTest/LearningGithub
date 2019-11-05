@@ -1,1 +1,2 @@
-this is the third file with random stuff
+this is the third file
+Chnages to the third file
