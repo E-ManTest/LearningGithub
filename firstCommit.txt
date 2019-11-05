@@ -1,2 +1,3 @@
 My first Git Commit
-Leaning git using command line
+Leaning git using line
+Adding mor code to this text and deleting command
