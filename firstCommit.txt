@@ -1,0 +1,2 @@
+My first Git Commit
+Leaning git using command line
