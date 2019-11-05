@@ -1,2 +1,2 @@
-this is the third file
-Chnages to the third file
+Now Changing the third file too
+Changes to the third file
